@@ -1,0 +1,8 @@
+.container-fluid {
+    background-color: #eee;
+    height: 100vh;
+    margin: 8px;
+}
+.wrapper {
+    background-color: #ffffff;
+}
