@@ -1,8 +1,18 @@
 .container-fluid {
     background-color: #eee;
-    height: 100vh;
     margin: 8px;
 }
 .wrapper {
     background-color: #ffffff;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+ul li {
+    margin-top: 1rem;
 }
